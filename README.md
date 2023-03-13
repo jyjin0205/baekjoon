@@ -11,12 +11,12 @@ https://variety82p.tistory.com/entry/%EB%B0%B1%EC%A4%80%EC%9D%84-%ED%92%80%EB%A9
 
 정유진
 -----------------------
-### Goal
+* ### Goal
 
-### Solved Problem
+* ### Solved Problem
 
 이지현
 -----------------------
-### Goal
+* ### Goal
 
-### Solved Problem
+* ### Solved Problem
