@@ -15,9 +15,10 @@ http://baactree.tistory.com/14
 정유진
 -----------------------
 * ### Goal
-
+  
 * ### Solved Problem
-
+  1934
+  
 이지현
 -----------------------
 * ### Goal
