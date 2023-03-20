@@ -18,6 +18,7 @@ http://baactree.tistory.com/14
   
 * ### Solved Problem
   1934
+  13241 << 유클리드 호제법 이용한 최소공배수
   
 이지현
 -----------------------
